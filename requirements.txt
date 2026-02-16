@@ -17,5 +17,6 @@ sentence-transformers==3.0.1
 gradio==4.36.1
 ollama==0.2.1
 spacy==3.8.7
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 nltk==3.9.1
 numpy==1.26.0

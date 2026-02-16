@@ -8,4 +8,4 @@ dependencies:
   - ipython=8.15.0
   - jupyterlab=4.0.8
   - pip:
-    - -r requirements.txt
+      - -r requirements.txt
