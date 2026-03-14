@@ -93,15 +93,11 @@ Then open the notebook in the browser and select the **icesi-nlp** kernel.
 │   ├── Sentiment-Analysis.ipynb
 │   └── three_little_pigs.txt
 │
-├── 2-Session-Activity
+├── 2-Sesion-activity
+│   └── Languages_LSTM.ipynb
 │
-├── 3-Session-Activity
-│
-├── 4-Session-Activity
-│
-├── 5-Session-Activity
-│
-├── 6-Session-Activity
+├── 3-sesion-activity
+│   └── transformer_lang_id.ipynb
 │
 ├── README.md
 ├── environment.yaml
