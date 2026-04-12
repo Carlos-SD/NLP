@@ -99,7 +99,18 @@ Then open the notebook in the browser and select the **icesi-nlp** kernel.
 ├── 3-sesion-activity
 │   └── transformer_lang_id.ipynb
 │
+├── 4-sesion-activity
+│   └── BERT_Classification.ipynb
+│
+├── 5-sesion-activity
+│   └── GPT-2_Text_Generation.ipynb
+│
+├── 6-sesion-activiy
+│   └── Qwen-Hotpot-RAG.ipynb
+│
 ├── README.md
 ├── environment.yaml
 └── requirements.txt
 ```
+
+---
